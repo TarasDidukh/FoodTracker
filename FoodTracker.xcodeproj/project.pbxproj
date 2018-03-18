@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		463B0AD1205AFB40008EE7A2 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 463B0AD0205AFB40008EE7A2 /* RatingControl.swift */; };
+		46EC2752205EF58C00E64D39 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46EC2751205EF58C00E64D39 /* Meal.swift */; };
 		C7FE5A2020597BE00034DCA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7FE5A1F20597BE00034DCA6 /* AppDelegate.swift */; };
 		C7FE5A2220597BE00034DCA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7FE5A2120597BE00034DCA6 /* ViewController.swift */; };
 		C7FE5A2520597BE00034DCA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7FE5A2320597BE00034DCA6 /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		463B0AD0205AFB40008EE7A2 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		46EC2751205EF58C00E64D39 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		C7FE5A1C20597BE00034DCA6 /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7FE5A1F20597BE00034DCA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C7FE5A2120597BE00034DCA6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				C7FE5A2120597BE00034DCA6 /* ViewController.swift */,
 				463B0AD0205AFB40008EE7A2 /* RatingControl.swift */,
 				C7FE5A2320597BE00034DCA6 /* Main.storyboard */,
+				46EC2751205EF58C00E64D39 /* Meal.swift */,
 				C7FE5A2620597BE00034DCA6 /* Assets.xcassets */,
 				C7FE5A2820597BE00034DCA6 /* LaunchScreen.storyboard */,
 				C7FE5A2B20597BE00034DCA6 /* Info.plist */,
@@ -201,6 +204,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46EC2752205EF58C00E64D39 /* Meal.swift in Sources */,
 				C7FE5A2220597BE00034DCA6 /* ViewController.swift in Sources */,
 				463B0AD1205AFB40008EE7A2 /* RatingControl.swift in Sources */,
 				C7FE5A2020597BE00034DCA6 /* AppDelegate.swift in Sources */,
